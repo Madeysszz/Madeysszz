@@ -1,6 +1,6 @@
 # Hola
 
-<img src="meme3.jpg" alt="Banner" width="100%" height="250">
+<img src="meme3.jpg" alt="Banner" width="100%" height="500">
 
 it hurts to be something.  
 it's worse to be nothing.
